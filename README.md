@@ -16,6 +16,7 @@ I am a **web developer** passionate about building innovative and exciting proje
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
@@ -25,10 +26,11 @@ I am a **web developer** passionate about building innovative and exciting proje
 
 ## About Me
 
-![Coding on Desktop](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHYwcHhzc2lqN3Nzem84aHAxMW00djNnMDNxcWVoYmFueHNxaDVudiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif)
 
 I am Prakash, a dedicated web developer keen on crafting innovative and impactful solutions. My focus lies in leveraging the latest technologies to build intuitive and efficient applications that solve real-world problems.
 
 ---
 
 *Let's connect and create something amazing together!*
+
